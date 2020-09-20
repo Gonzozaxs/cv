@@ -3,8 +3,18 @@
   company: Educabily
   link: https://educabily.com/
   job_title: Full Stack Developer
-  dates: Date Range (eg. June 2019 - present)
-  quote: >
-    Short description of the company (optional)
+  dates: Date Range (June 2019 - present)
+  # quote: >
+  #   Short description of the company (optional) <mark>like this</mark>.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Full Stack developer <mark>HTML</mark> <mark>SCSS</mark> <mark>Javascript</mark> <mark>Angular</mark> <mark>Python</mark> <mark>Django</mark> <mark>Flask</mark> <mark>Google Cloud</mark>
+
+- layout: left
+  company: Deloite
+  link: https://www2.deloitte.com/
+  job_title: Salesforce Developer
+  dates: Date Range (Abril 2019 - June 2019)
+  # quote: >
+  #   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Junior Salesforce developer

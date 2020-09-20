@@ -46,13 +46,24 @@ linkedin_username: gonzalo-franco-barral-480217188
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Full Stack Developer from Seville, Spain looking for new professional challenges 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Languages:
+
+    - Native Spanish 
+    - English ( B2 equivalent )
+
+  Programing languages:
+
+    - Front End: <mark>HTML</mark> <mark>SCSS</mark> <mark>Javascript</mark> <mark>Typescript</mark>
+    - Back End:  <mark>Python</mark> <mark>Javascript</mark> <mark>SQL</mark> <mark>PHP</mark> 
+    - Other:  <mark>Java</mark> <mark>Swift</mark> 
+
+  Other skills:
+
+    - Agile Project Management
+    - Git
+    - Google Cloud Services
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,9 +77,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Linux and Mac user, passionate reader and autodidacticism.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  "In real open source, you have the right to control your own destiny" - Linus Torvals
 
 # Footer
 footer_show_references: true

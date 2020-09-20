@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
   name: Escuela Profesional Vedruna
-  dates: Date Range (eg. 2017 - 2019)
+  dates: Date Range (2017 - 2019)
   qualification: Título técnico superior en desarrollo de aplicaciones multiplataforma
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
